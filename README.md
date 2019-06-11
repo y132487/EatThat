@@ -1,7 +1,7 @@
 # portfolio
 SJ Bae(배승주, ぺ・スンジュ)
 
-EatThat : <br>
+EatThat_VerJava : <br>
 대학시절 만든 자바게임입니다.<br>
 자바6 환경에서 실행가능합니다.<br> 
 소스에 한글이 남아있습니다. <br>
