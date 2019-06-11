@@ -1,0 +1,50 @@
+#board{
+	border:#d3d3d3 solid 1px;
+	padding:5px;
+	width:820px;
+}
+
+#buttons{
+	float:right;
+}
+
+tr.list_border > th{
+	border:#d3d3d3 solid 1px;
+	padding:5px;
+	text-align:center;
+}
+tr.list_border > td{
+	border:#d3d3d3 solid 1px;
+	padding:5px;
+	text-align:center;
+}
+
+tr.list_border td a{
+	text-decoration:none;
+	color:#000;
+}
+
+tr.list_border td a:hover{
+	text-decoration:underline;
+	color:#7D0804;
+}
+
+tr > #th_num{width:6%;}
+tr > #th_title{width:66%;}
+tr > #th_writer{width:11%;}
+tr > #th_readcount{width:6%;}
+tr > #th_date{width:11%;}
+
+tr.write_border > th{
+	border:#d3d3d3 solid 1px;
+	padding:5px;
+	vertical-align:middle;
+}
+tr.write_border > td{
+	border:#d3d3d3 solid 1px;
+	padding:5px;
+}
+
+tr > #view_writer{width:11%;}
+tr > #view_readcount{width:6%;}
+tr > #view_readcounting{width:8%;}

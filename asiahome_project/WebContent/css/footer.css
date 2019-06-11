@@ -1,0 +1,23 @@
+#footer_wrap{
+	background-color:#262626;
+}
+#footer{
+	width:1024px;	
+	margin:0 auto;
+	padding-top:15px;
+	padding-bottom:15px;
+	text-align:center;
+	
+}
+
+#footer_links{color:#aaa;}
+#footer_links > a{color:#aaa; text-decoration: none;}
+#footer_links > a:hover{color:#fff; text-decoration: underline;}
+
+#footer_auther{color:#777;}
+
+
+b{font-weight:bolder;}
+h1{font-size:36px; font-weight:bolder;}
+h2{font-size:26px; font-weight:bolder;}
+h3{font-size:20px; font-weight:bolder;}

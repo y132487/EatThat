@@ -1,0 +1,86 @@
+#content_wrap{
+	background-color:#F2EEE5;
+}
+
+#content h1{
+	font-size:30px;
+}
+#content{
+	width:1024px;
+	margin:0 auto;
+	overflow:hidden;
+	background-color:#ffffff;	
+}
+
+#content > #c_section{
+	width:1024px;
+	
+}
+
+#c_section > article.c_article1{
+	margin-bottom:10px;
+}
+
+#c_section > article.c_article2{
+	display:inline;
+	float:left;
+	margin:10px 20px;
+
+}
+
+#c_section > article.c_article3{
+	margin:5px 5px;
+	
+}
+
+#visual{height:350px;position:relative; }
+.touch_bullet{position:absolute;top:330px;left:50%;margin-left:-27px;}
+.touch_bullet li{float:left;}
+.touch_left_btn{position:absolute;top:50%;left:30px;margin-top:-25px;}
+.touch_right_btn{position:absolute;top:50%;right:30px;margin-top:-25px;}
+
+/* Swipe 2 required styles */
+
+.swipe {
+  overflow: hidden;
+  visibility: hidden;
+  position: relative;
+  
+}
+.swipe-wrap {
+  overflow: hidden;
+  position: relative;
+}
+.swipe-wrap > li {
+  float:left;
+  width:100%;
+  position: relative;
+}
+
+/* END required styles */
+#mySwipe img{width:100%; max-width:100%;z-index:40;}
+
+#mySwipe div b {
+  display:block;
+  font-weight:bold;
+  color:#14ADE5;
+  font-size:20px;
+  text-align:center;
+  margin:10px;
+  padding:100px 10px;
+  box-shadow: 0 1px #EBEBEB;
+  background: #fff;
+  border-radius: 3px;
+  border: 1px solid;
+  border-color: #E5E5E5 #D3D3D3 #B9C1C6;
+}
+
+tr.list_border  a{
+	text-decoration:none;
+	color:#000;
+}
+
+tr.list_border  a:hover{
+	text-decoration:underline;
+	color:#7D0804;
+}

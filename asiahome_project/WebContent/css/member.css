@@ -1,0 +1,15 @@
+#member{
+	width:1024px;
+	margin:0 auto;
+	padding-bottom:5px;
+	background-color:#ffffff;
+}
+
+table.member_table{
+	margin:0 auto;
+	padding:10px;
+}
+
+table.member_table tr td{
+	padding:5px;
+}
