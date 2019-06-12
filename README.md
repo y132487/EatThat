@@ -10,10 +10,11 @@ JAVA６基盤で実行可能です。<br>
 犬が振り向く確率を乱数として実装しました。<br>
 Tcp/ip ソケット通信で対戦プレイも可能です。<br>
 クラスのパッケージ化、容量の調整など、改善すべき箇所がたくさんあります。<br>
+<br>
 asiahome_project :<br>
 大学時代に作ったホームページです。　FWは使ってません。<br>
 web開発としては初経験で、掲示板のpagingロジックは自力で実装しようとしました。<br>
-MVCの概念を覚えるきっかけとなりました。
+MVCの概念を覚えるきっかけとなりました。<br>
 <br>
 EatThat_VerAndroid :<br>
 大学時代に作ったAndroidゲームです。<br>
@@ -29,3 +30,4 @@ KongProjectVer.1 : <br>
 Frameworkを簡単に作成し、これを基盤にして作ってみました。<br>
 Eclipse基盤だったのでAndroidStudio上では実行出来ません。<br>
 apkをインストールしてください。<br>
+<br>
